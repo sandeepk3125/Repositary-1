@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 66A2-4C4E
+
+ Directory of C:\Users\LENOVO\Desktop\git project
+
+07/26/2018  01:50 PM    <DIR>          .
+07/26/2018  01:50 PM    <DIR>          ..
+07/26/2018  01:50 PM                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  37,572,739,072 bytes free
